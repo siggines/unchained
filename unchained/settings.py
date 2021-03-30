@@ -46,6 +46,13 @@ INSTALLED_APPS = [
     'filer',
     'easy_thumbnails',
     'mptt',
+    'djangocms_link',
+    'djangocms_file',
+    'djangocms_picture',
+    'djangocms_video',
+    'djangocms_googlemap',
+    'djangocms_snippet',
+    'djangocms_style',
 ]
 
 MIDDLEWARE = [
